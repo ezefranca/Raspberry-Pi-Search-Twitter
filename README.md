@@ -23,4 +23,4 @@ A_T="Access Token"
 A_S="Access Token Secret"
 ```
 
-To receive keys, register your application [Twitter developer console](apps.twitter.com)
+To receive keys, register your application [Twitter developer console](https://apps.twitter.com)
