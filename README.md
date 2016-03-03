@@ -1,5 +1,7 @@
 # Raspberry-Pi-Search-Twitter
-Coursera Assignment
+Coursera Assignment 03 
+
+[Course](https://www.coursera.org/learn/raspberry-pi-interface)
 
 # searchTwitter
 
