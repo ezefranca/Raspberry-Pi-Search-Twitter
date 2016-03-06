@@ -1,9 +1,5 @@
 #!/usr/bin/python3
 
-# connect to tweeter, search for tweets containing a
-# specific  stream and when 3 or more such tweets are 
-# found, program print, “Ian G. Harris is popular!”
-
 from twython import TwythonStreamer
 
 exec(open("keys.py").read())
